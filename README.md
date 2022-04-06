@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seodam-hst.
 - 👀 I’m interested in Swift, SwiftUI, iOS, macOS. 
-- 🌱 I’m currently making writing platform for Korean developers.
+- 🌱 I’m currently making a writing platform for Korean developers.
 - 📫 How to reach me: @seodam_hst on Twitter
 
 <!---
