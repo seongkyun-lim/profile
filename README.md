@@ -1,1 +1,2 @@
-- 👋 Hi, I’m Seodam.
+- 진득한 해결사
+- [CoreTask](https://apps.apple.com/app/coretask/id6478839577), [LockChest](https://apps.apple.com/app/lockchest/id6477859494)을 만들고 있어요
