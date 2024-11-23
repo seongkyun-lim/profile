@@ -4,7 +4,7 @@ Meticulous maker.
 I believe good things take time.
 
 ## Services
-Products that cultivate calm minds.
+Products that cultivate calm minds:
 
 [CoreTask](https://apps.apple.com/app/coretask/id6478839577) | Eisenhower Priority Matrix | Reduce Anxiety & Improve Self-efficacy
   
